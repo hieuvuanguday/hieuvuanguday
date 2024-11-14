@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/hieuvuanguday">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web+and+application+development+learner;Start to learn how to use Nextjs/NestJs and GraphSQL for Capstone Project next year!!1;Try+new+things+and+make+its+perfect"/>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web+and+application+development+learner;Start to learn how to use Nextjs/NestJs and GraphSQL for Capstone Project next year!!!;Try+new+things+and+make+its+perfect"/>
   </a>
 </p>
 <p align="center">
