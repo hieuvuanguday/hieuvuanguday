@@ -91,6 +91,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hieuvuanguday's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hieuvuanguday&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
     <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
   </p>
+  ## 📊 WakaTime Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
   
 
 
