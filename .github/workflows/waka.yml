@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # Chạy lúc 0h UTC hàng ngày (7h sáng VN)
     - cron: "0 0 * * *"
 
 jobs:
@@ -16,10 +16,11 @@ jobs:
     steps:
       - uses: athul/waka-readme-stats@v2.1.0
         with:
+          # 🔐 WakaTime API Key – bạn phải tạo secret tên `WAKATIME_API_KEY`
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-           # meta
+          
+          # ⚙️ Cấu hình hiển thị
           API_BASE_URL: https://wakatime.com/api
-           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: ->
@@ -30,10 +31,13 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          # commit
+
+          # 📝 Commit vào README.md
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
+
+          # 🧑 Tác giả commit là bạn, người thực hiện commit là GitHub Bot
           COMMITTER_NAME: GitHub Action
           COMMITTER_EMAIL: actions@github.com
           AUTHOR_NAME: hieuvuanguday
