@@ -34,7 +34,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: master
           TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.org
-          AUTHOR_NAME: NHKritDat
-          AUTHOR_EMAIL: dat01102003@gmail.com
+          COMMITTER_NAME: GitHub Action
+          COMMITTER_EMAIL: actions@github.com
+          AUTHOR_NAME: hieuvuanguday
+          AUTHOR_EMAIL: hieuvuanguday.dev@gmail.com
