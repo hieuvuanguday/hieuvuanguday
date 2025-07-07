@@ -29,11 +29,11 @@ jobs:
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
 
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: main
+          COMMIT_MESSAGE: Updated wakatime-stats graph with new metrics
+          TARGET_BRANCH: master
           TARGET_PATH: README.md
 
-          COMMITTER_NAME: GitHub Action
-          COMMITTER_EMAIL: actions@github.com
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.org
           AUTHOR_NAME: hieuvuanguday
           AUTHOR_EMAIL: hieuvuanguday.dev@gmail.com
