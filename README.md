@@ -99,7 +99,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 525.4 kB Used in GitHub's Storage 
+> 📦 525.3 kB Used in GitHub's Storage 
  > 
 > 🏆 45 Contributions in the Year 2025
  > 
@@ -171,7 +171,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2025 17:21:23 UTC
+ Last Updated on 08/07/2025 17:22:33 UTC
 <!--END_SECTION:waka-->
 
   
