@@ -1,33 +1,13 @@
-name: WakaTime Stats Update
+name: Test Secrets
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  debug:
     runs-on: ubuntu-latest
-    env:
-      ACTIONS_STEP_DEBUG: true
-      ACTIONS_RUNNER_DEBUG: true
     steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
+      - name: Print secret (should be masked)
+        run: echo "Secret length is ${#WAKATIME_API_KEY}"
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LANGUAGE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_TIMEZONE: true
-          SHOW_COMMIT: true
-          COMMIT_MESSAGE: Updated wakatime-stats graph with new metrics
-          COMMIT_USERNAME: GitHubActionBot
-          COMMIT_EMAIL: action-bot@github.org
-
