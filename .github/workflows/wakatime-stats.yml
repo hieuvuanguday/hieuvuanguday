@@ -12,13 +12,15 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    env:
+      ACTIONS_STEP_DEBUG: true
+      ACTIONS_RUNNER_DEBUG: true
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@v3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-          # Các tuỳ chọn hiển thị
           SHOW_LANGUAGE: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_PROJECTS: true
@@ -26,8 +28,7 @@ jobs:
           SHOW_OS: true
           SHOW_TIMEZONE: true
           SHOW_COMMIT: true
-          
-          # Commit cấu hình
+
           COMMIT_MESSAGE: Updated wakatime-stats graph with new metrics
           COMMIT_USERNAME: GitHubActionBot
           COMMIT_EMAIL: action-bot@github.org
