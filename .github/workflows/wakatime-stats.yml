@@ -1,22 +1,16 @@
 name: WakaTime Stats Update
 
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-    env:
-      ACTIONS_STEP_DEBUG: true
-      ACTIONS_RUNNER_DEBUG: true
     steps:
-      - uses: anmol098/waka-readme-stats@v3.1
+      - name: Update WakaTime Readme
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -29,6 +23,6 @@ jobs:
           SHOW_TIMEZONE: true
           SHOW_COMMIT: true
 
-          COMMIT_MESSAGE: Updated wakatime-stats graph with new metrics
-          COMMIT_USERNAME: GitHubActionBot
-          COMMIT_EMAIL: action-bot@github.org
+          COMMIT_MESSAGE: "Updated wakatime-stats graph with new metrics"
+          COMMIT_USERNAME: "GitHubActionBot"
+          COMMIT_EMAIL: "action-bot@github.org"
