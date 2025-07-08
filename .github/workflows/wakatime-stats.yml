@@ -13,14 +13,13 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme-stats@master
+      - uses: athul/waka-readme-stats@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           
           API_BASE_URL: https://wakatime.com/api
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
           CODE_LANG: all_time 
           TIME_RANGE: true
           LANG_COUNT: 10
@@ -30,7 +29,7 @@ jobs:
           STOP_AT_OTHER: true
 
           COMMIT_MESSAGE: Updated wakatime-stats graph with new metrics
-          TARGET_BRANCH: master
+          TARGET_BRANCH: main
           TARGET_PATH: README.md
 
           COMMITTER_NAME: GitHubActionBot
