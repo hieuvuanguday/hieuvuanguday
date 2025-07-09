@@ -93,15 +93,13 @@
   </p>
   ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-285-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 525.4 kB Used in GitHub's Storage 
- > 
-> 🏆 45 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -171,7 +169,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 02:14:42 UTC
+ Last Updated on 09/07/2025 02:15:50 UTC
 <!--END_SECTION:waka-->
 
   
