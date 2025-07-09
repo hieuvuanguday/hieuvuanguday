@@ -93,7 +93,7 @@
   </p>
   ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-285-blue)
 
@@ -171,7 +171,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2025 04:33:16 UTC
+ Last Updated on 09/07/2025 04:34:25 UTC
 <!--END_SECTION:waka-->
 
   
