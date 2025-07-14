@@ -95,7 +95,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-361-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-367-blue)
 
 **🐱 My GitHub Data** 
 
@@ -172,7 +172,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2025 05:16:20 UTC
+ Last Updated on 14/07/2025 05:17:17 UTC
 <!--END_SECTION:waka-->
 
   
