@@ -39,6 +39,7 @@
       <img alt="PUG" src="https://img.shields.io/badge/pug-a86454?&logo=pug&logoColor=fafafa&style=for-the-badge">
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white&style=for-the-badge">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge">
     </p>
     <h3 >🧰 Frameworks and Libraries</h3>
     <p>
@@ -51,6 +52,7 @@
       <img alt="Unity" src="https://img.shields.io/badge/unity-000000?&logo=unity&logoColor=white&style=for-the-badge">
       <img alt="Apache Ant" src="https://img.shields.io/badge/apache_ant-A81C7D?&logo=apacheant&logoColor=white&style=for-the-badge">
       <img alt="Apache Maven" src="https://img.shields.io/badge/apache_maven-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge">
+      <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge">
     </p>
     <h3 >🗄️ Databases and Cloud Hosting</h3>
     <p >
@@ -58,6 +60,7 @@
       <img alt="Firebase" src="https://img.shields.io/badge/firebase-DD2C00?&logo=firebase&logoColor=white&style=for-the-badge">
       <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-CC2927.svg?logo=microsoft-sql-server&logoColor=white&style=for-the-badge">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white&style=for-the-badge">
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge">
     </p>
     <h3 >💻 Software and Tools</h3>
     <p >
@@ -76,6 +79,7 @@
       <img alt="Sourcetree" src="https://img.shields.io/badge/Sourcetree-0052CC.svg?logo=sourcetree&logoColor=white&style=for-the-badge">
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge">
       <img alt="Azure Data Studio" src="https://img.shields.io/badge/Azure_Data_Studio-0078D4.svg?logo=azure-data-studio&logoColor=white&style=for-the-badge">
+      <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge">
     </p>
 </p>
 <h2 align="center">📊 Stats and Activity</h2>
