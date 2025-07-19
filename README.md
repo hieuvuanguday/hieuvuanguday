@@ -105,8 +105,6 @@
 
 > 📦 526.0 kB Used in GitHub's Storage 
  > 
-> 🏆 46 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -172,7 +170,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2025 01:45:29 UTC
+ Last Updated on 19/07/2025 01:46:40 UTC
 <!--END_SECTION:waka-->
 
   
