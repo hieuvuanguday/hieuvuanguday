@@ -16,6 +16,21 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      - name: Check if README has changed
+        run: |
+          git diff
+          git diff --quiet || echo "::set-output name=changed::true"
+        id: check_diff
+
+      - name: Commit changes
+        if: steps.check_diff.outputs.changed == 'true'
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Update README with latest WakaTime stats"
+          git push
+
       - name: Update WakaTime Readme
         uses: anmol098/waka-readme-stats@master
         with:
