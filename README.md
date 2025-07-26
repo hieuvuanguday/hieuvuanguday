@@ -99,13 +99,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-55-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 526.3 kB Used in GitHub's Storage 
- > 
-> 🏆 49 Contributions in the Year 2025
+> 📦 526.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -175,7 +173,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 17:56:58 UTC
+ Last Updated on 26/07/2025 01:45:17 UTC
 <!--END_SECTION:waka-->
 
   
