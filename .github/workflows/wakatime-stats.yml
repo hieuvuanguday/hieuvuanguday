@@ -16,11 +16,27 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
+      - name: Update WakaTime Readme
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LANGUAGE: true
+          SHOW_TOTAL_CODE_TIME: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_TIMEZONE: true
+          SHOW_COMMIT: true
+          COMMIT_MESSAGE: "Updated wakatime-stats graph with new metrics"
+          COMMIT_USERNAME: "GitHubActionBot"
+          COMMIT_EMAIL: "action-bot@github.org"
+
       - name: Check if README has changed
+        id: check_diff
         run: |
           git diff
-          git diff --quiet || echo "::set-output name=changed::true"
-        id: check_diff
+          git diff --quiet || echo "changed=true" >> $GITHUB_OUTPUT
 
       - name: Commit changes
         if: steps.check_diff.outputs.changed == 'true'
@@ -30,21 +46,3 @@ jobs:
           git add .
           git commit -m "Update README with latest WakaTime stats"
           git push
-
-      - name: Update WakaTime Readme
-        uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          SHOW_LANGUAGE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_OS: true
-          SHOW_TIMEZONE: true
-          SHOW_COMMIT: true
-
-          COMMIT_MESSAGE: "Updated wakatime-stats graph with new metrics"
-          COMMIT_USERNAME: "GitHubActionBot"
-          COMMIT_EMAIL: "action-bot@github.org"
