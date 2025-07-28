@@ -3,7 +3,7 @@ name: WakaTime Stats Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # chạy mỗi ngày lúc 0h UTC
+    - cron: "0 0 * * *" # chạy mỗi ngày vào lúc 0h UTC
 
 jobs:
   update-readme:
