@@ -97,15 +97,13 @@
   </p>
   ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 526.4 kB Used in GitHub's Storage 
- > 
-> 🏆 52 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,21 +138,21 @@ Sunday                   21 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               15 hrs 9 mins       █████████████████████████   99.96 % 
+TypeScript               15 hrs 50 mins      █████████████████████████   99.96 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-veila-server             14 hrs 44 mins      ████████████████████████░   97.21 % 
-capstone-project-be-main 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+veila-server             15 hrs 25 mins      ████████████████████████░   97.33 % 
+capstone-project-be-main 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 9-CN4                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -174,7 +172,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2025 01:56:59 UTC
+ Last Updated on 28/07/2025 01:54:49 UTC
 <!--END_SECTION:waka-->
 
   
