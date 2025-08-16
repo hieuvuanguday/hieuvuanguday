@@ -1,9 +1,5 @@
 <!-- Profile Header -->
-<p align="center">
-  <a href="https://github.com/hieuvuanguday">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1200&color=7F3FBF&center=true&vCenter=true&width=600&lines=👋+Hello!+I'm+Hieuvuanguday;💻+Web+%26+Application+Developer;🚀+Exploring+NextJS%2C+NestJS%2C+GraphQL" alt="Typing SVG"/>
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/hieuvuanguday"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=%7C+Hieuvuanguday+%7C;%7C+Ryan+%7C" alt="Hieuvuanguday"/> </a> </p>
 
 ---
 
