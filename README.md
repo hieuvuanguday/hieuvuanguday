@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center"> <a href="https://github.com/hieuvuanguday"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=30&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=%7C+Hieuvuanguday+%7C;%7C+Ryan+%7C" alt="Hieuvuanguday"/> </a> </p>
-
+<p align="center"> <a href="https://github.com/hieuvuanguday"> <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=800&duration=2000&pause=2000&color=8054B3&center=true&vCenter=true&width=435&lines=Web+and+application+development+learner;Start+to+learn+Nextjs-NestJs-GraphSQL;Try+new+things+and+make+it+perfect"/> </a> </p> <p align="center">
 ---
 
 <!-- Social Links -->
