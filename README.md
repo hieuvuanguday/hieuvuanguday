@@ -78,7 +78,7 @@
 </p>
   ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
 
@@ -122,7 +122,7 @@ Sunday                   49 commits          ████░░░░░░░�
 
 💬 Programming Languages: 
 TypeScript               15 hrs 50 mins      ████████████████████████░   95.77 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
@@ -153,7 +153,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2025 01:40:47 UTC
+ Last Updated on 26/08/2025 01:37:31 UTC
 <!--END_SECTION:waka-->
 
   
