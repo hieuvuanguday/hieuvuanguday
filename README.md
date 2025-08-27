@@ -78,9 +78,9 @@
 </p>
   ## 📊 WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My GitHub Data** 
 
@@ -121,19 +121,17 @@ Sunday                   49 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               15 hrs 50 mins      ████████████████████████░   95.77 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+TypeScript               11 hrs 41 mins      █████████████████████████   99.87 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-veila-server             16 hrs 32 mins      █████████████████████████   100.00 % 
+veila-server             11 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -153,7 +151,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2025 01:37:31 UTC
+ Last Updated on 27/08/2025 01:26:45 UTC
 <!--END_SECTION:waka-->
 
   
