@@ -99,21 +99,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                188 commits         █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-🌆 Daytime                455 commits         ████████████░░░░░░░░░░░░░   47.25 % 
-🌃 Evening                220 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-🌙 Night                  100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                139 commits         ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+🌆 Daytime                298 commits         ██████████████░░░░░░░░░░░   57.98 % 
+🌃 Evening                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+🌙 Night                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Tuesday                  107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Wednesday                68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Thursday                 292 commits         ████████░░░░░░░░░░░░░░░░░   30.32 % 
-Friday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Sunday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Monday                   80 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Tuesday                  43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Wednesday                26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Thursday                 173 commits         ████████░░░░░░░░░░░░░░░░░   33.66 % 
+Friday                   88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Sunday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 ```
 
 
@@ -144,11 +144,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     11 repos            ███████████░░░░░░░░░░░░░░   42.31 % 
-C#                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Java                     11 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+C#                       5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -158,7 +158,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hieuvuanguday/hieuvuanguday/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2026 03:12:33 UTC
+ Last Updated on 03/09/2026 03:14:33 UTC
 <!--END_SECTION:waka-->
 
   
